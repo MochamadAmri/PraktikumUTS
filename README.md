@@ -2,7 +2,7 @@
 ```
 Mochamad Amri Adrian Wiratama
 31191026
-TI. 19. A2
+TI.20.D3 
 PELITA BANGSA UNIVERSITY
 ```
 ## SOAL :
